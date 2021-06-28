@@ -173,5 +173,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
                 ro.kernel.android.checkjni=0 \
                 ro.sf.lcd_density=280 \
                 ro.build.shutdown_timeout=6 \
-                persist.enable_task_snapshots=false \
-                persist.sys.hdmi.cec_enable=true
+                persist.enable_task_snapshots=false
